@@ -1,12 +1,3 @@
 User-agent: *
 Allow: /
-
-# Bloquer les pages admin (au cas où)
-Disallow: /admin/
-Disallow: /private/
-
-# Sitemap
-Sitemap: https://strategis-of.netlify.app/sitemap.xml
-
-# Crawl-delay
-Crawl-delay: 1
+Sitemap: https://songre-consulting.vercel.app/sitemap.xml
