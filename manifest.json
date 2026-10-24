@@ -1,0 +1,13 @@
+{
+  "name": "Songre Consulting",
+  "short_name": "Songre",
+  "description": "Développement Web, Mobile, Desktop & IA à Ouagadougou",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f7f3",
+  "theme_color": "#0A2540",
+  "lang": "fr",
+  "icons": [
+    {"src": "/favicon.png", "sizes": "192x192", "type": "image/png"}
+  ]
+}

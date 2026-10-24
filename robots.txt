@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://songre-consulting.vercel.app/sitemap.xml
